@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since my first line of code...<br>📚 I'm currently learning Backend development ...<br>🎯 Goals:Become a skilled Full stack web developer ...<br>🎲 Fun fact:Dark mode is mandotory ...</p>
 
 ###
 
